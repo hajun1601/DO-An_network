@@ -1,0 +1,8 @@
+- Kiem tra OSPF - All R -
+show ip ospf neighbor
+show ip route
+- kiem tra nat R2 -
+ip nat inside
+ip nat outside
+- kiem tra server Pc 1 - 2 -
+ping 8.8.8.8
